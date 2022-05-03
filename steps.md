@@ -1,4 +1,4 @@
-# Creazione Backup su Aruba Cloud Storage con QNAP :computer:
+# Creazione Backup su Aruba Cloud Storage con QNAP o IPERIUS:computer:
 L'obiettivo finale sarà quello di creare un lavoro di backup di cartelle locali su Aruba Cloud Storage.<br>
 <br>
 
@@ -9,6 +9,7 @@ Per la creazione del seguente progetto avremo bisogno di:
 
 [CREAZIONE UTENTE ARUBA CLOUD STORAGE](#CREAZIONE-UTENTE-ARUBA-CLOUD-STORAGE)<br><br>
 [CREAZIONE LAVORO BACKUP QNAP](#CREAZIONE-LAVORO-BACKUP-QNAP)<br><br>
+[CREAZIONE LAVORO BACKUP IPERIUS](#CREAZIONE-LAVORO-IPERIUS)<br><br>
 
 # CREAZIONE UTENTE ARUBA CLOUD STORAGE
 Accedere al pannello di controllo Aruba Cloud Storage cliccando [qui](https://admin.services.cloud.it/Login.aspx) e inserire le proprie credenziali.<br>
@@ -36,3 +37,6 @@ Completare i campi richiesti come in figura, con il dominio memorizzato preceden
 Selezionare, poi, il bucket di destinazione precedentemente creato.<br><br>
 ![](/proc/7.PNG)<br><br>
 Una volta pianificata la frequenza temporale del backup cliccare su "Crea".<br><br>
+
+# CREAZIONE LAVORO BACKUP IPERIUS
+Aprire l'applicazione "Iperius Backup".
