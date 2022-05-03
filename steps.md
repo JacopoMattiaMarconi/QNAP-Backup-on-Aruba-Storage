@@ -30,5 +30,9 @@ Una volta aperto il programma cliccare sull'icona "Backup e Ripristino", "Crea" 
 ![](/proc/5.PNG)<br><br>
 Selezionare la cartella della quale effettuare il backup.<br><br>
 ![](/proc/6.PNG)<br><br>
+Selezionare il metodo di trasferimento del backup come riportato di seguito.<br><br>
+![](/proc/9.PNG)<br><br>
+Completare i campi richiesti come in figura, con il dominio memorizzato precedentemente, l'utente e la password.<br>
+Selezionare, poi, il bucket di destinazione precedentemente creato.<br><br>
 ![](/proc/7.PNG)<br><br>
-![](/proc/8.PNG)<br><br>
+Una volta pianificata la frequanza temporale del backup cliccare su "Crea".<br><br>
