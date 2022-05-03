@@ -39,4 +39,12 @@ Selezionare, poi, il bucket di destinazione precedentemente creato.<br><br>
 Una volta pianificata la frequenza temporale del backup cliccare su "Crea".<br><br>
 
 # CREAZIONE LAVORO BACKUP IPERIUS
-Aprire l'applicazione "Iperius Backup".
+Aprire l'applicazione "Iperius Backup".<br>
+Cliccare su "Crea nuova operazione di backup".<br><br>
+![](/proc/10.PNG)<br><br>
+Selezionare l'icona "Aggiungi una cartella" e selezionare la cartella della quale fare il backup.<br><br>
+:warning: ATTENZIONE: potrebbe essere necessario specificare utente e password per accedere alla cartella locale.<br><br>
+![](/proc/12.PNG)<br><br>
+Cliccare sull'icona "Aggiungi destinazione su Cloud". Clicca, poi, sull'icona "Aggiungi \ modifica account" e completa i campi come riportato di seguito.<br><br>
+:warning:IMPORTANTE: inserire il dominio, utente e password precedentemente memorizzati nei punti passati.<br><br>
+![](/proc/11.PNG)<br><br>
