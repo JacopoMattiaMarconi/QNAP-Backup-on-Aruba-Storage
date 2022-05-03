@@ -11,7 +11,7 @@ Per la creazione del seguente progetto avremo bisogno di:
 [CREAZIONE LAVORO BACKUP QNAP](#CREAZIONE-LAVORO-BACKUP-QNAP)<br><br>
 
 # CREAZIONE UTENTE ARUBA CLOUD STORAGE
-Accedere al pannello di controllo Aruba Cloud Storage cliccando (qui)[https://admin.services.cloud.it/Login.aspx] e mettendo le proprie credenziali.
+Accedere al pannello di controllo Aruba Cloud Storage cliccando [qui](https://admin.services.cloud.it/Login.aspx) e mettendo le proprie credenziali.
 ![](/proc/1.PNG)
 ![](/proc/2.PNG)
 ![](/proc/3.PNG)
