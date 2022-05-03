@@ -12,7 +12,23 @@ Per la creazione del seguente progetto avremo bisogno di:
 
 # CREAZIONE UTENTE ARUBA CLOUD STORAGE
 Accedere al pannello di controllo Aruba Cloud Storage cliccando [qui](https://admin.services.cloud.it/Login.aspx) e inserire le proprie credenziali.<br>
-![](/proc/1.PNG)
-![](/proc/2.PNG)
-![](/proc/3.PNG)
+Selezionare la voce "Storage" in alto e creare un nuovo utente cliccando su "crea nuovo utente" e seguire i pochi passaggi richiesti. <br><br>
+:warning:IMPORTANTE: memorizzare utente e password.<br><br>
+![](/proc/1.PNG)<br><br>
+Una volta creato l'utente cliccare su "gestisci".<br><br>
+:warning:IMPORTANTE: memorizzare il dominio "r1-it.storage.cloud.it".<br><br>
+![](/proc/2.PNG)<br><br>
+Per accedere allo spazio di destinazione dei backup, cliccare su "Client di connessione". Cliccare poi su "accedi" sotto la voce "Object Storage Web Client".
+Infine inserire utente e password.<br><br>
+![](/proc/3.PNG)<br><br>
+Creare una cartella di destinazione dei backup cliccando sull'icona "Crea nuovo bucket o cartella".<br><br>
 ![](/proc/4.PNG)
+
+# CREAZIONE UTENTE ARUBA CLOUD STORAGE 
+Accedere al proprio QNAP e aprire "HBS 3 Hybrid Backup Sync", nel caso non ci fosse, scaricarlo dalle applicazioni.<br>
+Una volta aperto il programma cliccare sull'icona "Backup e Ripristino", "Crea" e "Nuovo processo di backup".<br><br>
+![](/proc/5.PNG)<br><br>
+Selezionare la cartella della quale effettuare il backup.<br><br>
+![](/proc/6.PNG)<br><br>
+![](/proc/7.PNG)<br><br>
+![](/proc/8.PNG)<br><br>
