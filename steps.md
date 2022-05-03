@@ -25,7 +25,7 @@ Infine inserire utente e password.<br><br>
 Creare una cartella di destinazione dei backup cliccando sull'icona "Crea nuovo bucket o cartella".<br><br>
 ![](/proc/4.PNG)
 
-# CREAZIONE UTENTE ARUBA CLOUD STORAGE 
+# CREAZIONE LAVORO BACKUP QNAP 
 Accedere al proprio QNAP e aprire "HBS 3 Hybrid Backup Sync", nel caso non ci fosse, scaricarlo dalle applicazioni.<br>
 Una volta aperto il programma cliccare sull'icona "Backup e Ripristino", "Crea" e "Nuovo processo di backup".<br><br>
 ![](/proc/5.PNG)<br><br>
