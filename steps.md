@@ -9,7 +9,7 @@ Per la creazione del seguente progetto avremo bisogno di:
 
 [CREAZIONE UTENTE ARUBA CLOUD STORAGE](#CREAZIONE-UTENTE-ARUBA-CLOUD-STORAGE)<br><br>
 [CREAZIONE LAVORO BACKUP QNAP](#CREAZIONE-LAVORO-BACKUP-QNAP)<br><br>
-[CREAZIONE LAVORO BACKUP IPERIUS](#CREAZIONE-LAVORO-IPERIUS)<br><br>
+[CREAZIONE LAVORO BACKUP IPERIUS](#CREAZIONE-LAVORO-BACKUP-IPERIUS)<br><br>
 
 # CREAZIONE UTENTE ARUBA CLOUD STORAGE
 Accedere al pannello di controllo Aruba Cloud Storage cliccando [qui](https://admin.services.cloud.it/Login.aspx) e inserire le proprie credenziali.<br>
