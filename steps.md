@@ -4,8 +4,9 @@ L'obiettivo finale sarà quello di creare un lavoro di backup di cartelle locali
 
 Per la creazione del seguente progetto avremo bisogno di:
 >            buona connessione ad internet
->            NAS QNAP
 >            account Aruba Cloud Storage
+>            NAS QNAP
+>            applicazione Iperius Backup
 
 [CREAZIONE UTENTE ARUBA CLOUD STORAGE](#CREAZIONE-UTENTE-ARUBA-CLOUD-STORAGE)<br><br>
 [CREAZIONE LAVORO BACKUP QNAP](#CREAZIONE-LAVORO-BACKUP-QNAP)<br><br>
