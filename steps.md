@@ -35,4 +35,4 @@ Selezionare il metodo di trasferimento del backup come riportato di seguito.<br>
 Completare i campi richiesti come in figura, con il dominio memorizzato precedentemente, l'utente e la password.<br>
 Selezionare, poi, il bucket di destinazione precedentemente creato.<br><br>
 ![](/proc/7.PNG)<br><br>
-Una volta pianificata la frequanza temporale del backup cliccare su "Crea".<br><br>
+Una volta pianificata la frequenza temporale del backup cliccare su "Crea".<br><br>
